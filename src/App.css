@@ -1,0 +1,10 @@
+.delete-post-btn{
+  color: darkred;
+  cursor: pointer;
+}
+.delete-post-btn:hover{
+  color: red;
+}
+.delete-post-btn:active{
+  color: darkorange;
+}
